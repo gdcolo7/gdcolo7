@@ -17,7 +17,7 @@ Thanks, I guess.
 
 ---
 
-# about me
+## about me
 hello! i am alex, also known online as `gdcolo7`, `rip0ff`, `cx37_`, `vix` and a bunch more that i forgot to list
 i am from the philippines, coming from the south part of <sub>(mainland)</sub> luzon also known as "rizal"!
 i am not well known... for now! >:]
